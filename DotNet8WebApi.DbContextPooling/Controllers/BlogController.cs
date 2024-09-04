@@ -1,5 +1,4 @@
 ﻿using DotNet8WebApi.DbContextPooling.Db;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
